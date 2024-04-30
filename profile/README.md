@@ -1,6 +1,6 @@
 # CIQ FIPS for Rocky Linux
 
-Welcome to the official GitHub repository for CIQ's FIPS (Federal Information Processing Standards) offering for Rocky Linux. Our mission is to meet the stringent security requirements of federal customers and beyond, ensuring the highest level of data protection and compliance.
+Welcome to the official GitHub repository for CIQ's FIPS (Federal Information Processing Standards) offering for [Rocky Linux](https://ciq.com/products/rocky-linux/). Our mission is to meet the stringent security requirements of federal customers and beyond, ensuring the highest level of data protection and compliance.
 
 ## CIQ's FIPS Offering
 
@@ -12,7 +12,7 @@ CIQ has developed a robust FIPS solution on the x86_64 architecture for Rocky Li
 - **GnuTLS**
 - **Kernel**
 
-These modules have been built from the ground up to meet the latest FIPS 140-3 standard and are released as updates to subscribed customers via Mountain.
+These modules have been built from the ground up to meet the latest FIPS 140-3 standard and are released as updates to subscribed customers via [Mountain](https://ciq.com/products/ciq-mountain/).
 
 ## Independent Validation
 
@@ -20,7 +20,7 @@ Our FIPS modules undergo independent validation by the National Institute of Sta
 
 ## Supported Versions and Lifecycle
 
-Following the release timelines of Rocky Linux, CIQ offers extended support and updates for FIPS modules, aligning with our Long Term Support (LTS) offering. This ensures that even after a Rocky Linux version is declared EOL, your systems remain secure and compliant.
+Following the release timelines of Rocky Linux, CIQ offers extended support and updates for FIPS modules, aligning with our [Long Term Support (LTS)](https://ciq.com/services/long-term-support/) offering. This ensures that even after a Rocky Linux version is declared EOL, your systems remain secure and compliant.
 
 ## FIPS / LTS Product Access
 
@@ -41,4 +41,3 @@ CIQ commits to the highest standards of security:
 ## FIPS Modules & Versions
 
 CIQ maintains a comprehensive list of FIPS modules and versions for both Rocky Linux 8 and Rocky Linux 9, ensuring your systems are equipped with the most secure and up-to-date components.
-
